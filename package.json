@@ -1,0 +1,27 @@
+{
+  "name": "blog_api_project",
+  "version": "1.0.0",
+  "description": "personal blogging api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingaszasz/szasz_kinga_blog_restapi.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "Kinga Szasz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingaszasz/szasz_kinga_blog_restapi/issues"
+  },
+  "homepage": "https://github.com/kingaszasz/szasz_kinga_blog_restapi#readme",
+  "devDependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "helmet": "^3.12.0"
+  }
+}
